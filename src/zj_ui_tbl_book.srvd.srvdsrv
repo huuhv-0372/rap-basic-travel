@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Booking CDS View'
+define service ZJ_UI_TBL_BOOK {
+  expose ZJ_CDS_TBL_BOOK;
+}
